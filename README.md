@@ -22,7 +22,7 @@ I'm a passionate engineer who loves tackling complex challenges, building scalab
 
 
 ### 🎯 Let's Connect:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Profile-blue?style=flat&logo=linkedin)]([your-linkedin-url](https://www.linkedin.com/in/sahil-saraswat-67a365251/))  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Profile-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/sahil-saraswat-67a365251/)
 [![Portfolio](https://img.shields.io/badge/Portfolio-Website-orange?style=flat&logo=google-chrome)](https://sahils38.github.io/Portfolio-website/)  
 
 ---
