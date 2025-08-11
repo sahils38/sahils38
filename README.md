@@ -5,7 +5,7 @@
 I'm a passionate engineer who loves tackling complex challenges, building scalable full-stack applications, and exploring the ever-evolving world of AI and ML. With a strong foundation in **React, Node.js, TypeScript, Firebase, and Docker**, I thrive on learning and integrating new technologies seamlessly into my workflow.
 
 ### Tech Stack & Tools:
-- **Frontend:** HTML, CSS, JavaScript, React.js, TypeScript
+- **Frontend:** HTML, CSS, JavaScript, React.js, Nextjs, TypeScript
 - **Backend:** Node.js, Express.js, Firebase
 - **DevOps & Deployment:** Docker, Railway, Vercel, GitHub
 - **Programming:** C++ (DSA), Basic Java
