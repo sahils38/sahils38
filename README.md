@@ -18,7 +18,8 @@ I'm a passionate engineer who loves tackling complex challenges, building scalab
 -  **Continuous Learning** – Tech is always evolving, and so am I.
 
 ###  Featured Projects:
- **[SocialScan](https://social-scan.vercel.app/)** – "A social media investigation tool that automates login processes, gathers insights, and performs analysis across platforms for security and research purposes." 
+ **[CramAI]** – "Working on a project where users can give their video lectures as input and get text notes, voice notes and interactive quizzes saving the time instead of watching the full kength lecture.
+More updates soon!!" 
 
 
 ###  Let's Connect:
