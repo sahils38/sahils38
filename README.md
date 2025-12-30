@@ -18,7 +18,7 @@ I'm a passionate engineer who loves tackling complex challenges, building scalab
 -  **Continuous Learning** – Tech is always evolving, and so am I.
 
 ###  Featured Projects:
- **[CramAI]** – "Working on a project where users can give their video lectures as input and get text notes, voice notes and interactive quizzes saving the time instead of watching the full kength lecture.
+ **[CramAI]** – "Working on a project where users can give their video lectures as input and get text notes, voice notes and interactive quizzes saving the time instead of watching the full length lecture.
 More updates soon!!" 
 
 
