@@ -21,9 +21,5 @@ I'm a passionate engineer who loves tackling complex challenges, building scalab
  **[CramAI]** – "Working on a project where users can give their video lectures as input and get text notes, voice notes and interactive quizzes saving the time instead of watching the full length lecture.
 More updates soon!!" 
 
-
-###  Let's Connect:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Profile-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/sahil-saraswat-67a365251/)
-
 ---
-🚀 Always up for interesting discussions and collaborations! Let's build something amazing together. 💡
+Always up for interesting discussions and collaborations! Let's build something amazing together. 💡
